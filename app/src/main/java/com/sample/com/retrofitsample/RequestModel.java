@@ -1,8 +1,8 @@
-package report.sdatasolutions.com.retrofitsample.Network;
+package com.sample.com.retrofitsample;
 
 /**
  * Created by DELL on 08/11/2017.
  */
 
-class RequestModel {
+public class RequestModel {
 }

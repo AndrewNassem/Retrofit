@@ -1,9 +1,9 @@
-package com.sdatasolutions.report.Network;
+package com.sample.com.retrofitsample.Network;
 
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.sdatasolutions.report.Constants;
+import com.sample.report.Constants;
 
 import java.util.concurrent.TimeUnit;
 

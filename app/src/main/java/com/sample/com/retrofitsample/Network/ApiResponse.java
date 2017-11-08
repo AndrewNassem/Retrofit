@@ -1,4 +1,4 @@
-package com.sdatasolutions.report.Network;
+package com.sample.com.retrofitsample.Network;
 
 /**
  * Created by DELL on 09/06/2017.
